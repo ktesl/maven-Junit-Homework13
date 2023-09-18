@@ -1,1 +1,2 @@
 sum=a+b
+dksj=l/g
